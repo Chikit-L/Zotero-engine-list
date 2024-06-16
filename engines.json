@@ -74,7 +74,7 @@
     "_description": "CNKI",
     "_icon": "http://kns8.cnki.net/favicon.ico",
     "_hidden": false,
-    "_urlTemplate": "http://kns8.cnki.net/kns/DefaultResult/Index?dbcode=SCDB&kw={z:title}&korder=SU",
+    "_urlTemplate": "https://kns.cnki.net/kns8s/defaultresult/?kw={z:title}",
     "_urlParams": [],
     "_urlNamespaces": {
       "z": "http://www.zotero.org/namespaces/openSearch#",
@@ -277,7 +277,7 @@
     "_description": "SciHub Lookup Lookup",
     "_icon": "https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20201016200912.png",
     "_hidden": false,
-    "_urlTemplate": "http://sci-hub.se/{z:DOI}",
+    "_urlTemplate": "http://www.sci-hub.se/{z:DOI}",
     "_urlParams": [],
     "_urlNamespaces": {
       "z": "http://www.zotero.org/namespaces/openSearch#"
@@ -290,7 +290,7 @@
     "_description": "SciHub URL Lookup",
     "_icon": "https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20201016200912.png",
     "_hidden": false,
-    "_urlTemplate": "http://sci-hub.se/{z:url}",
+    "_urlTemplate": "http://www.sci-hub.se/{z:url}",
     "_urlParams": [],
     "_urlNamespaces": {
       "z": "http://www.zotero.org/namespaces/openSearch#"
