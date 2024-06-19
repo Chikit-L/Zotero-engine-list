@@ -45,7 +45,7 @@
     "_alias": "豆瓣",
     "_description": "豆瓣",
     "_icon": "https://www.douban.com/favicon.ico",
-    "_hidden": true,
+    "_hidden": false,
     "_urlTemplate": "https://www.douban.com/search?q={z:title}",
     "_urlParams": [],
     "_urlNamespaces": {
@@ -59,7 +59,7 @@
     "_alias": "豆瓣电影",
     "_description": "豆瓣电影",
     "_icon": "https://www.douban.com/favicon.ico",
-    "_hidden": true,
+    "_hidden": false,
     "_urlTemplate": "https://search.douban.com/movie/subject_search?search_text={z:title}&cat=1002",
     "_urlParams": [],
     "_urlNamespaces": {
@@ -72,7 +72,7 @@
     "_name": "CNKI",
     "_alias": "CNKI",
     "_description": "CNKI",
-    "_icon": "http://kns8.cnki.net/favicon.ico",
+    "_icon": "https://www.cnki.net/favicon.ico",
     "_hidden": false,
     "_urlTemplate": "https://kns.cnki.net/kns8s/defaultresult/?kw={z:title}",
     "_urlParams": [],
@@ -80,7 +80,7 @@
       "z": "http://www.zotero.org/namespaces/openSearch#",
       "": "http://a9.com/-/spec/opensearch/1.1/"
     },
-    "_iconSourceURI": "http://kns8.cnki.net/favicon.ico"
+    "_iconSourceURI": "https://www.cnki.net/favicon.ico"
   },
   {
     "_name": "R全国图书馆参考咨询联盟",
@@ -234,7 +234,7 @@
     "_alias": "WOS",
     "_description": "Web of Science Search",
     "_icon": "https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20201016231207.png",
-    "_hidden": true,
+    "_hidden": false,
     "_urlTemplate": "http://ws.isiknowledge.com/cps/openurl/service?url_ver=Z39.88-2004&{z:openURL}",
     "_urlParams": [],
     "_urlNamespaces": {
@@ -248,7 +248,7 @@
     "_alias": "WOS Citing Articles",
     "_description": "Web of Science Citing Articles Search",
     "_icon": "https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20201016231207.png",
-    "_hidden": true,
+    "_hidden": false,
     "_urlTemplate": "http://ws.isiknowledge.com/cps/openurl/service?url_ver=Z39.88-2004&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.citing=yes&{z:openURL}",
     "_urlParams": [],
     "_urlNamespaces": {
@@ -262,7 +262,7 @@
     "_alias": "WOS Related Articles",
     "_description": "Web of Science Related Articles Search",
     "_icon": "https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20201016231207.png",
-    "_hidden": true,
+    "_hidden": false,
     "_urlTemplate": "http://ws.isiknowledge.com/cps/openurl/service?url_ver=Z39.88-2004&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.related=yes&{z:openURL}",
     "_urlParams": [],
     "_urlNamespaces": {
@@ -463,7 +463,7 @@
     "_alias": "SooPAT专利搜索",
     "_description": "SooPAT专利搜索",
     "_icon": "http://www.soopat.com/favicon.ico",
-    "_hidden": true,
+    "_hidden": false,
     "_urlTemplate": "http://www.soopat.com/Home/Result?SearchWord={z:title}&FMZL=Y&SYXX=Y&WGZL=Y&FMSQ=Y",
     "_urlParams": [],
     "_urlNamespaces": {
