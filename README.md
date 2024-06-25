@@ -5,7 +5,7 @@
 
 ## 如何使用
 
-将本仓库中 [engines.jsont](engines.json) 文件替换掉 ``Zotero数据储存文件夹``\locate\engines.json 后重启Zotero即可。
+将本仓库中 [engines.json](engines.json) 文件替换掉 ``Zotero数据储存文件夹``\locate\engines.json 后重启Zotero即可。
 
 如何查看Zotero位于哪里？
 

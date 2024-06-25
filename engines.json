@@ -27,7 +27,7 @@
     "_iconSourceURI": "https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20201016230909.png"
   },
   {
-    "_name": "D豆瓣读书",
+    "_name": "豆瓣读书",
     "_alias": "豆瓣读书",
     "_description": "豆瓣读书",
     "_icon": "https://www.douban.com/favicon.ico",
@@ -83,7 +83,7 @@
     "_iconSourceURI": "https://www.cnki.net/favicon.ico"
   },
   {
-    "_name": "R全国图书馆参考咨询联盟",
+    "_name": "全国图书馆参考咨询联盟",
     "_alias": "国内图书馆",
     "_description": "全国图书馆参考咨询联盟",
     "_icon": "http://www.ucdrs.superlib.net/favicon.ico",
@@ -97,7 +97,7 @@
     "_iconSourceURI": "http://www.ucdrs.superlib.net/favicon.ico"
   },
   {
-    "_name": "R全国图书馆参考咨询联盟(ISBN)",
+    "_name": "全国图书馆参考咨询联盟(ISBN)",
     "_alias": "国内图书馆",
     "_description": "全国图书馆参考咨询联盟",
     "_icon": "http://www.ucdrs.superlib.net/favicon.ico",
