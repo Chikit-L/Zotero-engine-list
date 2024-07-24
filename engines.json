@@ -74,7 +74,7 @@
 	  "_description": "CNKI",
 	  "_icon": "https://www.cnki.net/favicon.ico",
 	  "_hidden": false,
-	  "_urlTemplate": "https://kns.cnki.net/kns8s/defaultresult/?kw={z:title}",
+	  "_urlTemplate": "https://kns.cnki.net/kns8s/defaultresult/index?SU&kw={z:title}",
 	  "_urlParams": [],
 	  "_urlNamespaces": {
 		"z": "http://www.zotero.org/namespaces/openSearch#",
