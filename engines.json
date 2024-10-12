@@ -457,6 +457,33 @@
 		"z": "http://www.zotero.org/namespaces/openSearch#"
 	  },
 	  "_iconSourceURI": "http://www.proquest.com/favicon.ico"
+	},
+	{
+	  "_name": "百度学术",
+	  "_alias": "Baidu Scholar",
+	  "_description": "百度提供的学术搜索引擎，专注于为用户提供学术论文、文献、会议论文和研究报告等专业学术资源的检索服务。",
+	  "_icon": "https://xueshu.baidu.com/favicon.ico",
+	  "_hidden": false,
+	  "_urlTemplate": "https://xueshu.baidu.com/s?wd={z:title}",
+	  "_urlParams": [],
+	  "_urlNamespaces": {
+	  	"z": "http://www.zotero.org/namespaces/openSearch#",
+		"": "http://a9.com/-/spec/opensearch/1.1/"
+	  },
+	  "_iconSourceURI": "https://xueshu.baidu.com/favicon.ico"
+	},
+	{
+	  "_name": "全国标准信息公共服务平台",
+	  "_alias": "National public service platform for standards information",
+	  "_description": "中国国家市场监督管理总局推出的在线平台，旨在为公众提供全国性标准的查询和信息服务。",
+	  "_icon": "https://std.samr.gov.cn/images/shareLogo.png",
+	  "_hidden": false,
+	  "_urlTemplate": "https://std.samr.gov.cn/search/std?q={z:title}",
+	  "_urlParams": [],
+	  "_urlNamespaces": {
+	  	"z": "http://www.zotero.org/namespaces/openSearch#",
+		"": "http://a9.com/-/spec/opensearch/1.1/"
+	  },
+	  "_iconSourceURI": "https://std.samr.gov.cn/images/shareLogo.png"
 	}
-  ]
-  
+]
